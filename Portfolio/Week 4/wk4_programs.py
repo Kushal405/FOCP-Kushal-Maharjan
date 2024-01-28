@@ -72,7 +72,7 @@ def remove_char(s):
 
 # Testing
 print(remove_char("Hello, world!")) 
-print(remove_char("Krisha"))              
+print(remove_char("Kushal"))              
 print(remove_char(""))   
 print()
 
